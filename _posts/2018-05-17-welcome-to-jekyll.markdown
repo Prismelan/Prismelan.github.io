@@ -7,7 +7,7 @@ color: rgb(255,90,90)
 cover: '../assets/test.png'
 subtitle: 'Welcome to Akemi's World!'
 ---
-Hello, my name is Annabel. I'm trying to create a github project for the first time.
+Hola! mi nombre es Annabel. Trataré de crear un repo en github por primera vez. Espero no morir en el intento ya que aún voy en segundo semestre de mi carrera. Sin embargo, aquí estoy tratando de crear algo relacionado a mi carrera y de mi agrado.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
