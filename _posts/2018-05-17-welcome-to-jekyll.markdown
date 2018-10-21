@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Akemi's World!"
-date:   2018-05-17 14:05:21 +0800
-tags: jekyll update
-color: rgb(255,90,90)
-cover: '../assets/test.png'
-subtitle: 'Welcome to Akemi's World!'
+title: 'Hello Jekyll'
+date: 2017-04-18
+author: Jekyll
+color: rgb(255,210,32)
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: jekyll
 ---
 Hola! mi nombre es Annabel. Trataré de crear un repo en github por primera vez. Espero no morir en el intento ya que aún voy en segundo semestre de mi carrera. Sin embargo, aquí estoy tratando de crear algo relacionado a mi carrera y de mi agrado.
 
