@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Akemi's World!"
 date:   2018-05-17 14:05:21 +0800
 tags: jekyll update
 color: rgb(255,90,90)
 cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+subtitle: 'Welcome to Akemi's World!'
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello, my name is Annabel. I'm trying to create a github project for the first time.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
