@@ -4,7 +4,7 @@ title: 'Hello Akemi'
 date: 2018-10-21
 author: Akemi
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'http://on2171g4d.bkt.clouddn.com/kohina.jpg'
 tags: Akemi
 ---
 Hola! mi nombre es Annabel. Trataré de crear un repo en github por primera vez. Espero no morir en el intento ya que aún voy en segundo semestre de mi carrera. Sin embargo, aquí estoy tratando de crear algo relacionado a mi carrera y de mi agrado.
