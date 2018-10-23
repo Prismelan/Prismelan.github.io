@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'Hello Akemi'
+title: 'Hello World'
 date: 2018-10-21
 author: Akemi
 color: rgb(255,210,32)
 cover: 'assets/kohina.jpg'
 tags: Akemi
 ---
-Hola! mi nombre es Annabel. Trataré de crear un repo en github por primera vez. Espero no morir en el intento ya que aún voy en segundo semestre de mi carrera. Sin embargo, aquí estoy tratando de crear algo relacionado a mi carrera y de mi agrado.
+Hola! mi nick es Akemi. Trataré de crear un repo en github por primera vez. Estoy tratando de crear algo relacionado con mi carrera, inspirada nuevamente en las ramas de la programación. Recordar el manejo de hojas de estilo (CSS) y programación HTML.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Este es el primer intento de modificar un post. Añadiendo imagenes desde la carpeta <b>ASSETS</b>
 
 Jekyll also offers powerful support for code snippets:
 
